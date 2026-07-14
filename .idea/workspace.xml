@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1d1b92f4-915a-42ad-b7a4-af5cc75a8611" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3GCGhZcFhc9fazfB7YErCl1FpmP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ALLin.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Login.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TestNG.AdminTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.EmptyPasswordLogin.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.EmptyUsernameLogin.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.InvalidLogin.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.InvalidPasswordLogin.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.InvalidUsernameLogin (1).executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.LoginTest.InvalidUsernameLogin.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.Logout.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.ValidLogin.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTest.executor&quot;: &quot;Run&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Softwar Tester\Automation Testing\Projects\OrangeHRM-Automation-Testing\src\test\java" />
+      <recent name="D:\Softwar Tester\Automation Testing\Projects\OrangeHRM-Automation-Testing\src\test" />
+      <recent name="D:\Softwar Tester\Automation Testing\Projects\OrangeHRM-Automation-Testing\src\test\java\ALLin" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="base" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.LoginTest.ValidLogin">
+    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OrangeHRM-Automation-Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.LoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.EmptyPasswordLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OrangeHRM-Automation-Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.LoginTest" />
+      <option name="METHOD_NAME" value="EmptyPasswordLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.EmptyUsernameLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OrangeHRM-Automation-Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.LoginTest" />
+      <option name="METHOD_NAME" value="EmptyUsernameLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.Logout" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OrangeHRM-Automation-Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.LoginTest" />
+      <option name="METHOD_NAME" value="Logout" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.ValidLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OrangeHRM-Automation-Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.LoginTest" />
+      <option name="METHOD_NAME" value="ValidLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginTest.ValidLogin" />
+        <item itemvalue="TestNG.LoginTest" />
+        <item itemvalue="TestNG.LoginTest.Logout" />
+        <item itemvalue="TestNG.LoginTest.EmptyPasswordLogin" />
+        <item itemvalue="TestNG.LoginTest.EmptyUsernameLogin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d1b92f4-915a-42ad-b7a4-af5cc75a8611" name="Changes" comment="" />
+      <created>1783468261922</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1783468261922</updated>
+    </task>
+    <servers />
+  </component>
+</project>

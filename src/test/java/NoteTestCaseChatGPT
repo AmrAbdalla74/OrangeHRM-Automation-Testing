@@ -1,0 +1,247 @@
+1. Login Module
+TC001 - Valid Login ✅
+
+Steps
+
+Open OrangeHRM.
+Enter valid username.
+Enter valid password.
+Click Login.
+
+Expected Result
+
+User is redirected to Dashboard.
+TC002 - Invalid Username
+
+Expected
+
+تظهر رسالة:
+
+Invalid credentials
+
+TC003 - Invalid Password
+
+Expected
+
+Invalid credentials
+TC004 - Empty Username
+
+Expected
+
+Required
+TC005 - Empty Password
+
+Expected
+
+Required
+TC006 - Empty Username & Password
+
+Expected
+
+Required fields.
+TC007 - Logout
+
+Expected
+
+يرجع لصفحة Login.
+2. Admin Module
+TC008 - Add New User
+
+Steps
+
+Admin
+Add User
+Fill all fields
+Save
+
+Expected
+
+Success message
+User appears in list.
+TC009 - Search User
+
+Expected
+
+User found.
+TC010 - Delete User
+
+Expected
+
+User removed successfully.
+TC011 - Edit User
+
+Expected
+
+Updated information saved.
+3. PIM Module
+TC012 - Add Employee
+
+Expected
+
+Employee added.
+TC013 - Search Employee
+
+Expected
+
+Employee displayed.
+TC014 - Edit Employee
+
+Expected
+
+Employee data updated.
+TC015 - Delete Employee
+
+Expected
+
+Employee removed.
+4. Leave Module
+TC016 - Apply Leave
+
+Expected
+
+Leave request submitted.
+TC017 - Cancel Leave
+
+Expected
+
+Leave cancelled.
+5. My Info Module
+TC018 - Update Personal Details
+
+Expected
+
+Success message.
+TC019 - Upload Profile Picture
+
+Expected
+
+Image uploaded successfully.
+6. Recruitment Module
+TC020 - Add Candidate
+
+Expected
+
+Candidate saved.
+TC021 - Upload Resume
+
+Expected
+
+Resume uploaded.
+7. Performance Module
+TC022 - Add Performance Review
+
+Expected
+
+Review saved.
+8. Dashboard
+TC023 - Verify Dashboard Widgets
+
+Expected
+
+All widgets displayed.
+9. Search Functionality
+TC024 - Search Existing Employee
+
+Expected
+
+Employee displayed.
+TC025 - Search Non-existing Employee
+
+Expected
+
+No Records Found.
+10. Negative Test Cases
+TC026 - Duplicate Username
+
+Expected
+
+Username already exists.
+TC027 - Invalid File Upload
+
+Expected
+
+Validation message.
+TC028 - Required Fields Validation
+
+Expected
+
+Required messages displayed.
+11. UI Verification
+TC029 - Verify Logo
+
+Expected
+
+Logo displayed.
+TC030 - Verify Left Menu
+
+Expected
+
+All menu items displayed.
+12. End-to-End Scenario ⭐
+TC031 - Complete Employee Flow
+
+Steps
+
+Login.
+Add Employee.
+Search Employee.
+Edit Employee.
+Delete Employee.
+Logout.
+
+Expected
+
+All operations complete successfully.
+
+
+
+
+OrangeHRMFramework
+│
+├── src
+│   ├── main
+│   │   ├── java
+│   │   │   ├── pages
+│   │   │   │   ├── LoginPage.java
+│   │   │   │   ├── DashboardPage.java
+│   │   │   │   ├── AdminPage.java
+│   │   │   │   ├── PIMPage.java
+│   │   │   │   └── ...
+│   │   │   │
+│   │   │   ├── factory
+│   │   │   │   └── DriverFactory.java
+│   │   │   │
+│   │   │   ├── utils
+│   │   │   │   ├── ConfigReader.java
+│   │   │   │   ├── Screenshot.java
+│   │   │   │   ├── Waits.java
+│   │   │   │   └── ExcelReader.java
+│   │   │   │
+│   │   │   └── base
+│   │   │       └── BasePage.java
+│   │   │
+│   │   └── resources
+│   │       ├── config.properties
+│   │       └── testdata.xlsx
+│   │
+│   └── test
+│       ├── java
+│       │   ├── base
+│       │   │   └── BaseTest.java
+│       │   │
+│       │   ├── tests
+│       │   │   ├── LoginTest.java
+│       │   │   ├── AdminTest.java
+│       │   │   ├── PIMTest.java
+│       │   │   └── LeaveTest.java
+│       │   │
+│       │   └── listeners
+│       │       └── TestListener.java
+│       │
+│       └── resources
+│           └── testng.xml
+│
+├── screenshots
+├── reports
+├── logs
+└── pom.xml
