@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d1b92f4-915a-42ad-b7a4-af5cc75a8611" name="Changes" comment="" />
+    <list default="true" id="1d1b92f4-915a-42ad-b7a4-af5cc75a8611" name="Changes" comment="Initial OrangeHRM Automation Framework">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/ConfigReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/ConfigReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/NoteTestCaseChatGPT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/ExtentReport.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +23,25 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AmrAbdalla74"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AmrAbdalla74/OrangeHRM-Automation-Testing.git",
+    "accountId": "4bdd6dd9-8e12-4543-a293-f9d1a4520893"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -25,39 +50,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ALLin.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Login.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;TestNG.AdminTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.LoginTest.EmptyPasswordLogin.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.LoginTest.EmptyUsernameLogin.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.LoginTest.InvalidLogin.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.LoginTest.InvalidPasswordLogin.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.LoginTest.InvalidUsernameLogin (1).executor&quot;: &quot;Debug&quot;,
-    &quot;TestNG.LoginTest.InvalidUsernameLogin.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.LoginTest.Logout.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.LoginTest.ValidLogin.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.LoginTest.executor&quot;: &quot;Run&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ALLin.executor": "Run",
+    "Application.Login.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "TestNG.AdminTest.executor": "Run",
+    "TestNG.LoginTest.EmptyPasswordLogin.executor": "Run",
+    "TestNG.LoginTest.EmptyUsernameLogin.executor": "Run",
+    "TestNG.LoginTest.InvalidLogin.executor": "Run",
+    "TestNG.LoginTest.InvalidPasswordLogin.executor": "Run",
+    "TestNG.LoginTest.InvalidUsernameLogin (1).executor": "Debug",
+    "TestNG.LoginTest.InvalidUsernameLogin.executor": "Run",
+    "TestNG.LoginTest.Logout.executor": "Run",
+    "TestNG.LoginTest.ValidLogin.executor": "Run",
+    "TestNG.LoginTest.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Softwar Tester\Automation Testing\Projects\OrangeHRM-Automation-Testing\src\test\java" />
+      <recent name="D:\Softwar Tester\Automation Testing\Projects\OrangeHRM-Automation-Testing\src\main\resources" />
+      <recent name="D:\Softwar Tester\Automation Testing\Projects\OrangeHRM-Automation-Testing\src\test\resources" />
       <recent name="D:\Softwar Tester\Automation Testing\Projects\OrangeHRM-Automation-Testing\src\test" />
+      <recent name="D:\Softwar Tester\Automation Testing\Projects\OrangeHRM-Automation-Testing\src\test\java" />
       <recent name="D:\Softwar Tester\Automation Testing\Projects\OrangeHRM-Automation-Testing\src\test\java\ALLin" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="base" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.LoginTest.ValidLogin">
+  <component name="RunManager" selected="TestNG.LoginTest">
     <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="OrangeHRM-Automation-Testing" />
       <extension name="coverage">
@@ -149,8 +179,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.LoginTest.ValidLogin" />
         <item itemvalue="TestNG.LoginTest" />
+        <item itemvalue="TestNG.LoginTest.ValidLogin" />
         <item itemvalue="TestNG.LoginTest.Logout" />
         <item itemvalue="TestNG.LoginTest.EmptyPasswordLogin" />
         <item itemvalue="TestNG.LoginTest.EmptyUsernameLogin" />
@@ -172,6 +202,19 @@
       <option name="presentableId" value="Default" />
       <updated>1783468261922</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial OrangeHRM Automation Framework">
+      <option name="closed" value="true" />
+      <created>1784049214836</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1784049214836</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial OrangeHRM Automation Framework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial OrangeHRM Automation Framework" />
   </component>
 </project>
