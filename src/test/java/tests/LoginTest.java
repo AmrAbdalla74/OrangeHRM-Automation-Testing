@@ -1,20 +1,13 @@
 package tests;
 
 import base.BaseTest;
-import org.openqa.selenium.By;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 import pages.DashboardPage;
 import pages.LoginPage;
 import utils.ConfigReader;
-import utils.Wait;
-
-import java.time.Duration;
 
 import static factory.DriverFactory.driver;
 
@@ -27,8 +20,8 @@ public class LoginTest extends BaseTest {
     @BeforeMethod
     public void setupPages(){
         loginPage = new LoginPage(driver);
-        config = new ConfigReader();
         dashboardPage = new DashboardPage(driver);
+        config = new ConfigReader();
     }
 
     //login with valid data (username & password)
