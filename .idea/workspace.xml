@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d1b92f4-915a-42ad-b7a4-af5cc75a8611" name="Changes" comment="Update project structure">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/factory/DriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/factory/DriverFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/DashboardPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/DashboardPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/reports/ExtentReportManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/reports/ExtentReportManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utils/ConfigReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/ConfigReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utils/ScreenshotUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/ScreenshotUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utils/Wait.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/Wait.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/resources/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/LoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/ExtentReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utils/ConfigReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/ConfigReader.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,18 +75,21 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Softwar Tester\Automation Testing\Projects\OrangeHRM-Automation-Testing\src\test\java" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Softwar Tester\Automation Testing\Projects\OrangeHRM-Automation-Testing\src\test" />
+      <recent name="D:\Softwar Tester\Automation Testing\Projects\OrangeHRM-Automation-Testing\src\test\java\resources" />
       <recent name="D:\Softwar Tester\Automation Testing\Projects\OrangeHRM-Automation-Testing\src\main\resources" />
       <recent name="D:\Softwar Tester\Automation Testing\Projects\OrangeHRM-Automation-Testing\src\test\resources" />
-      <recent name="D:\Softwar Tester\Automation Testing\Projects\OrangeHRM-Automation-Testing\src\test" />
       <recent name="D:\Softwar Tester\Automation Testing\Projects\OrangeHRM-Automation-Testing\src\test\java" />
-      <recent name="D:\Softwar Tester\Automation Testing\Projects\OrangeHRM-Automation-Testing\src\test\java\ALLin" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="base" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.LoginTest">
+  <component name="RunManager" selected="TestNG.LoginTest.ValidLogin">
     <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="OrangeHRM-Automation-Testing" />
       <extension name="coverage">
@@ -187,9 +181,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.LoginTest" />
-        <item itemvalue="TestNG.LoginTest.InvalidUsernameLogin" />
         <item itemvalue="TestNG.LoginTest.ValidLogin" />
+        <item itemvalue="TestNG.LoginTest.InvalidUsernameLogin" />
+        <item itemvalue="TestNG.LoginTest" />
         <item itemvalue="TestNG.LoginTest.Logout" />
         <item itemvalue="TestNG.LoginTest.EmptyPasswordLogin" />
       </list>
