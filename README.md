@@ -43,19 +43,18 @@ This project is a Selenium WebDriver automation framework developed for testing 
 
 ```
 src
-├── main
-│   └── java
-│       ├── factory
-│       ├── pages
-│       ├── reports
-│       └── utils
-│
 └── test
     ├── java
     │   ├── base
+    │   ├── factory
     │   ├── listeners
-    │   └── tests
+    │   ├── pages
+    │   ├── reports
+    │   ├── tests
+    │   └── utils
+    │
     └── resources
+        └── config.properties
 ```
 
 ---------------------------------
